@@ -19,7 +19,7 @@
     </script>
   </head>
   <body>
-    <h1>Codelabs</h1>
+    <h1>Codelabs company</h1>
     <div id="linechart" style="width: 900px; height: 500px"></div>
   </body>
 </html>
